@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme {
+    --color-beige: #f1ede9;
+    --default-font-family: "FixelDisplay";
+    --color-viola: #C981B6
+}
