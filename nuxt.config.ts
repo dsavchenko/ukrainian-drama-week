@@ -17,7 +17,8 @@ export default defineNuxtConfig({
   },
   css: ['~/assets/css/main.css'],
   image: {
-    dir: 'assets/img'
+    dir: 'assets/img',
+    provider: "ipx"
   },
   fonts: {
     provider: 'local',
