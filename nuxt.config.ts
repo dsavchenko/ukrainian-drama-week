@@ -29,9 +29,9 @@ export default defineNuxtConfig({
   },
   icon: {
     clientBundle: {
+      icons: ['lucide:x'],
       scan: true,
       sizeLimitKb: 256,
     },
-    serverBundle: false
   },
 })
