@@ -23,8 +23,14 @@ export default defineNuxtConfig({
   },
   fonts: {
     provider: 'local',
-  families: [
-    {name: "FixelDisplay", provider: 'local', global: true}
-  ]
-  }
+    families: [
+      {name: "FixelDisplay", provider: 'local', global: true}
+    ]
+  },
+  icon: {
+    clientBundle: {
+      scan: true,
+      sizeLimitKb: 256,
+    },
+  },
 })
