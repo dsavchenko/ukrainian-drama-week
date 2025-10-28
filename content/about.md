@@ -60,9 +60,9 @@ Depuis le début de la grande guerre son travail se situe au croisement de l’a
 
 Un grand nombre de personnes ont contribué à la réalisation du festival, et des remerciements particuliers méritent d'être adressés à :
 
-Olha SAHAIDAK et Iulia GRUBRINA pour le soutien idéologique
+**Olha SAHAIDAK** et **Iulia GRUBRINA** pour le soutien idéologique
 
-Dmytro TCHYSTIAK et Louise HENRI pour la traduction
+**Dmytro TCHYSTIAK** et **Louise HENRI** pour la traduction
 
-Danylo BOIKO, Lisa MYKHAILUS et Den SAVCHENKO pour le soutien créatif
+**Danylo BOIKO**, **Lisa MYKHAILUS** et **Denys SAVCHENKO** pour le soutien créatif
 ::

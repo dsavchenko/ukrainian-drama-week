@@ -1,5 +1,5 @@
 <template>
-  <div class="px-2 md:px-20 pt-10 m-3 border-4 border-green-400 flex flex-col flex-1">
+  <div class="px-2 md:px-20 pt-10 m-3 border-4 border-viola flex flex-col flex-1">
     <h2 class="text-xl md:text-3xl font-bold md:mb-10">{{ title }}</h2>
     <div class="flex flex-col md:flex-row">
       <p class="italic font-semibold md:mr-30 pb-5">{{ title_orig }}</p>

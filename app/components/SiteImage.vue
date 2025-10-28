@@ -2,7 +2,7 @@
   <div :class="{'max-h-80': position == 'wide', 
                 'overflow-hidden': position == 'wide', 
                 'md:w-3/5 md:ml-20 mx-4 my-5': position == 'left',
-                'h-[300px] md:ml-[33%] md:pl-18': position == 'right'}">
+                'h-[300px] md:ml-[32%] md:pl-18': position == 'right'}">
     <nuxt-img :src="image" alt="photo" v-if="position!='right'"/>
     <nuxt-img :src="image" alt="photo" height=300 v-if="position=='right'"/>
   </div>

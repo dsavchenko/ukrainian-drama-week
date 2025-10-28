@@ -34,7 +34,7 @@
         </div>
 
         <div>
-          <a href="https://www.helloasso.com/associations/cie-air">
+          <a href="https://www.helloasso.com/associations/cie-air" target="_blank">
             <nuxt-img src='air-logo.png' class="h-20"/>
           </a>
         </div>

@@ -28,8 +28,11 @@
       </ul>
       <!-- Desktop Menu: Right -->
       <ul class="hidden md:flex space-x-6 ml-auto py-4">
-        <!-- <li><NuxtLink to="#">Réserver</NuxtLink></li> -->
-        <li><NuxtLink to="#">Soutenir</NuxtLink></li>
+        <li><NuxtLink 
+          to="https://www.helloasso.com/associations/cie-air/formulaires/1"
+          target="_blank">
+            Soutenir
+        </NuxtLink></li>
       </ul>
 
       <!-- Mobile Menu Button -->
@@ -77,7 +80,14 @@
           </li>
         
           <!-- <li class="ml-auto"><NuxtLink to="/reserver" @click="isOpen=false">Réserver</NuxtLink></li> -->
-          <li class="ml-auto"><NuxtLink to="" @click="isOpen=false">Soutenir</NuxtLink></li>
+          <li class="ml-auto">
+            <NuxtLink 
+              to="https://www.helloasso.com/associations/cie-air/formulaires/1" 
+              target="_blank"
+              @click="isOpen=false">
+                Soutenir
+            </NuxtLink>
+          </li>
         </ul>
       </div>
     </transition>
@@ -94,18 +104,18 @@ const items = ref([
     to: "/about"
   }, 
   {
-    label: "Saison 2027",
+    label: "Édition 2027",
     to: "/season-2027"
   },
   {
     label: "Archives",
     children: [
       {
-        label: "Saison 2023",
+        label: "Édition 2023",
         to: "/season-2023" 
       },
       {
-        label: "Saison 2024",
+        label: "Édition 2024",
         to: "/season-2024"
       }
     ]

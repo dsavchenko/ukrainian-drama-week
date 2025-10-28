@@ -21,21 +21,21 @@ Direction: Macha Isakova
 
 ::presse
 #col1
-[Radio France](https://www.radiofrance.fr/franceculture/podcasts/l-avant-scene/macha-isakova-on-redecouvre-notre-identite-ukrainienne-a-travers-le-theatre-2824236) 
+[Radio France](https://www.radiofrance.fr/franceculture/podcasts/l-avant-scene/macha-isakova-on-redecouvre-notre-identite-ukrainienne-a-travers-le-theatre-2824236){:target="_blank"} 
 Macha Isakova : "On redécouvre notre identité ukrainienne à travers le théâtre"
 
-[Actualitté](https://actualitte.com/article/120777/spectacles/semaine-de-la-dramaturgie-ukrainienne-2024) 
+[Actualitté](https://actualitte.com/article/120777/spectacles/semaine-de-la-dramaturgie-ukrainienne-2024){:target="_blank"} 
 La Semaine dépasse le cadre d’un simple événement théâtral
 
-[Relais Culture Europe](https://www.youtube.com/watch?v=zJqIFXWCdTU)
+[Relais Culture Europe](https://www.youtube.com/watch?v=zJqIFXWCdTU){:target="_blank"}
 
 #col2
-[Суспільне](https://suspilne.media/culture/899863-u-francii-trivae-festival-tizden-ukrainskoi-drami/) 
+[Суспільне](https://suspilne.media/culture/899863-u-francii-trivae-festival-tizden-ukrainskoi-drami/){:target="_blank"} 
 
-[RFI](https://www.rfi.fr/uk/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%86%D1%96-%D0%B7%D0%B0-%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%BD%D0%BE%D0%BC/20241211-%D1%83-%D0%BF%D0%B0%D1%80%D0%B8%D0%B6%D1%96-%D0%B2%D0%B4%D1%80%D1%83%D0%B3%D0%B5-%D1%80%D0%BE%D0%B7%D0%BF%D0%BE%D1%87%D0%B0%D0%B2%D1%81%D1%8F-%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%97-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3%D1%96%D1%97)
+[RFI](https://www.rfi.fr/uk/%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%86%D1%96-%D0%B7%D0%B0-%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%BD%D0%BE%D0%BC/20241211-%D1%83-%D0%BF%D0%B0%D1%80%D0%B8%D0%B6%D1%96-%D0%B2%D0%B4%D1%80%D1%83%D0%B3%D0%B5-%D1%80%D0%BE%D0%B7%D0%BF%D0%BE%D1%87%D0%B0%D0%B2%D1%81%D1%8F-%D1%82%D0%B8%D0%B6%D0%B4%D0%B5%D0%BD%D1%8C-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%97-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3%D1%96%D1%97){:target="_blank"}
 У Парижі вдруге розпочався Тиждень української драматургії
 
-[Укрінформ](https://www.ukrinform.ua/rubric-diaspora/3662806-u-francii-projsov-tizden-ukrainskoi-dramaturgii.html) 
+[Укрінформ](https://www.ukrinform.ua/rubric-diaspora/3662806-u-francii-projsov-tizden-ukrainskoi-dramaturgii.html){:target="_blank"} 
 ::
 
 ::text-block

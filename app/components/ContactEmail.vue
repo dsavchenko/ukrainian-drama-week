@@ -1,5 +1,5 @@
 <template>
-  <p class="text-2xl">
+  <p class="text-xl">
     {{ name }}<br/>
     <a :href="mailto">{{ email }}</a>
   </p>
