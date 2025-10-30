@@ -66,8 +66,10 @@ Le programme de la troisième Semaine de la dramaturgie ukrainienne est encore e
   ---
   title: Myna Mazaïlo
   title_orig: Мина Мазайло
-  description: une comédie grinçante qui aborde avec ironie et burlesque des questions d'identité nationale et de colonisation culturelle
+  #description: une comédie grinçante qui aborde avec ironie et burlesque des questions d'identité nationale et de colonisation culturelle
   ---
+  Une comédie grinçante qui aborde avec ironie et burlesque des questions d'identité nationale et de colonisation culturelle
+
   Nous avions déjà présenté Myna Mazaïlo lors de l’édition 2023. 
 
   Mais il nous était impossible de ne pas y revenir dans cette édition spéciale « Kulish », tant elle demeure son œuvre la plus emblématique. 
