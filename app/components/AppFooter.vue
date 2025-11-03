@@ -14,16 +14,16 @@
       
       <div class="flex-col space-y-4">
         <p class="uppercase">Semaine de la dramaturgie ukrainienne</p>
-        <p><nuxt-link to="/join#contact" class="uppercase">Contact</nuxt-link></p>
+        <p><nuxt-link to="/join#contact" class="uppercase hover:text-viola">Contact</nuxt-link></p>
       </div>
 
       <div class="flex-col space-y-4">
-        <p><a href="#" class="uppercase">Instagram</a></p>
-        <p><a href="#" class="uppercase">YouTube</a></p>
+        <p><a href="#" class="uppercase hover:text-viola">Instagram</a></p>
+        <p><a href="#" class="uppercase hover:text-viola">YouTube</a></p>
       </div>
 
       <div class="flex-col space-y-4">
-        <p><a href="#" class="uppercase">Soutenir la creation</a></p>
+        <p><a href="#" class="uppercase hover:text-viola">Soutenir la creation</a></p>
         <p> </p>
       </div>
 

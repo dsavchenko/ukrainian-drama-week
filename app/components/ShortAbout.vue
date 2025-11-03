@@ -15,7 +15,7 @@
         <div>
           <slot name="description"/>
         </div>
-        <nuxt-link class="font-semibold italic mt-3 md:mt-auto underline" to="about">En savoir plus →</nuxt-link>
+        <nuxt-link class="font-semibold italic mt-3 md:mt-auto hover:underline" to="about">En savoir plus →</nuxt-link>
       </div>
     </div>
   </div>

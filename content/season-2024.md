@@ -45,7 +45,7 @@ title: Programme
 ::
 
 ::center-header
-DOCUMENTAIRE ART VIVACE
+_DOCUMENTAIRE ART VIVACE_
 ::
 
 ::caroussel
@@ -65,7 +65,7 @@ Réalisé par **Macha ISAKOVA** pour l’ouverture du festival, suivie d’une d
 ::
 
 ::center-header
-MAROUSSIA DE BOHOUSLAV
+_MAROUSSIA DE BOHOUSLAV_
 
 de MYKHAÏLO STARYTSKY
 ::
@@ -90,7 +90,7 @@ Cette pièce historique raconte le destin de Maroussia, jeune femme ukrainienne 
 ::
 
 ::center-header
-L’EUPHORBIER
+_L’EUPHORBIER_
 
 d’OKSANA GRYTSENKO
 ::
@@ -115,7 +115,7 @@ Coincée dans une zone occupée, une grand-mère propose à sa fille de ressusci
 ::
 
 ::center-header
-LES POST-IT 
+_LES POST-IT_ 
 
 d’IHOR NOSSOVSKYI
 ::
@@ -140,7 +140,7 @@ Dans un petit appartement d’une ville occupée, une fille vit avec sa mère â
 ::
 
 ::center-header
-MARTYN BOROULIA
+_MARTYN BOROULIA_
 
 D’IVAN KARPENKO-KARY
 ::

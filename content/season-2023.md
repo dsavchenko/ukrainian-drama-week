@@ -48,7 +48,7 @@ title: Programme
 ::
 
 ::center-header
-SEPT PREMIERS TRAVAUX d’ALINA 
+_SEPT PREMIERS TRAVAUX d’ALINA_
 
 de NINA ZAKHOZHENKO
 ::
@@ -76,7 +76,7 @@ Cette pièce, à mi-chemin entre comédie ironique et performance pop-up, suit l
 ::
 
 ::center-header
-GLOIRE AUX HÉROS
+_GLOIRE AUX HÉROS_
 
 de PAVLO ARIE
 ::
@@ -106,7 +106,7 @@ Cette pièce met en scène la rencontre explosive entre deux anciens combattants
 ::
 
 ::center-header
-MOI ÇA VA
+_MOI ÇA VA_
 
 de NINA ZAKHOZHENKO
 ::
@@ -136,7 +136,7 @@ Avec : Roxane Sigaux, Margot-Marie Ménéguz, Robin Egloff, Valentin Baldi
 ::
 
 ::center-header
-À TRAVERS LA PEAU
+_À TRAVERS LA PEAU_
 
 de NATALKA BLOK
 ::
@@ -159,7 +159,7 @@ Monodrame. Une femme, réfugiée du Donbass avec ses enfants, tente d’oublier 
 ::
 
 ::center-header
-LA CONFESSION D’UNE UKRAINIENNE 
+_LA CONFESSION D’UNE UKRAINIENNE_
 
 de MACHA ISAKOVA
 ::
@@ -183,7 +183,7 @@ C’est à partir de ce texte qu’est née la Semaine de la dramaturgie ukraini
 ::
 
 ::center-header
-MYNA MAZAÏLO
+_MYNA MAZAÏLO_
 
 de MYKOLA KULISH
 ::

@@ -6,8 +6,7 @@
     <div class="flex flex-col md:flex-row md:min-w-4/6 md:w-4/6 justify-between">
       <div v-for="col in cols"
            :key="col"
-           class="md:pl-10 presslinks"
-           :class="{'text-right': col != 'col1'}"
+           class="md:pl-10 presslinks min-w-1/3"
       >
         <slot :name="col" />
       </div>
@@ -30,6 +29,6 @@ const cols = computed(() =>
 }
 
 .presslinks a {
-  @apply md:text-green-500 before:content-['['] after:content-[']']
+  @apply md:text-viola before:content-['[\00A0'] after:content-['\00A0]'] hover:font-semibold
 }
 </style>

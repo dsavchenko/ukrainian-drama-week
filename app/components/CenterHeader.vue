@@ -1,6 +1,7 @@
 <template>
-  <div class="flex md:mx-20">
-    <div class="font-bold text-xl md:text-3xl md:ml-[32%] px-4 md:px-11 my-10">
+  <div class="flex mx-4 md:mx-12">
+    <div class="md:min-w-1/3 md:w-1/3"></div>
+    <div class="font-bold text-xl md:text-3xl md:pl-10 my-10">
       <slot />
     </div>
   </div>

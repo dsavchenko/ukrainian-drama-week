@@ -1,8 +1,8 @@
 <template>
   <div class="flex flex-col md:flex-row mx-4 md:mx-12 mt-10 scroll-mt-20" :id="anchor">
     <div class="flex-col md:min-w-1/3 md:w-1/3" :class="{'hidden': fullwide}">
-      <h2 v-if="title" class="font-bold text-2xl md:text-3xl uppercase mb-2 md:mb-10">{{ title }}</h2>
-      <h3 v-if="$slots.subtitle" class="font-semibold text-xl md:text-xl md:pr-5 mb-5"><slot name="subtitle" /></h3>
+      <h2 v-if="title" class="title font-bold text-2xl md:text-3xl uppercase mb-2 md:mb-10">{{ title }}</h2>
+      <h3 v-if="$slots.subtitle" class="subtitle font-semibold text-xl md:text-xl md:pr-5 mb-5"><slot name="subtitle" /></h3>
     </div>
     <div class="textblock" :class="{'md:pl-10': !fullwide}">
       <slot />
@@ -37,4 +37,9 @@ defineProps({
 .textblock p {
   @apply md:mb-6 mb-2;
 }
+
+.subtitle a {
+  @apply text-viola hover:underline
+}
+
 </style>
