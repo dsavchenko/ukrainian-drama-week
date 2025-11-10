@@ -1,10 +1,11 @@
 <template>
   <div class="bg-viola/32 mb-20 mt-20 pb-16 flex flex-col">
-    <SiteImage image="theatre_veteran.png" position="left" 
+    <!-- <SiteImage image="theatre_veteran.png" position="left" 
                class="md:mb-10 order-last md:order-first"/>
-    <TextBlock title="Théâtre des Vétérans">
+    <TextBlock title="Le Théâtre des Vétérans">
       <slot />
-    </TextBlock>
+    </TextBlock> -->
+    <slot />
   </div>
   <Separator class="flex justify-end md:-mt-32 -mt-27" />
 </template>

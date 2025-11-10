@@ -26,9 +26,29 @@ Pourtant, il s’agit d’un véritable génie dramatique. En 2027, Le festival 
 ::
 
 ::veterans
-  Quant au Théâtre des Vétérans, c’est un projet unique fondé à Kyiv par le dramaturge reconnu et militaire Maksym Kurochkine.
+  ::site-image
+  --- 
+  image: theatre_veteran.png 
+  position: "left" 
+  class: "md:mb-10 order-last md:order-first"
+  ---
+  ::
 
-  Ce théâtre est né de l’expérience de guerre transformée en **dramaturgie**. À travers une formation spécialisée, il permet aux véritables vétérans de l’armée ukrainienne de prendre part à **l’écriture** et à la **création** théâtrale. Le résultat est une parole brute, urgente, ancrée dans le vécu, qui fait écho à la fois aux tragédies personnelles et aux bouleversements collectifs.
+  ::text-block
+  ---
+  title: Le Théâtre des Vétérans
+  ---
+  Le **Théâtre des Vétérans** est un projet unique né à Kyïv au sein du service des relations publiques du commandement des Forces de Défense Territoriale des Forces armées d’Ukraine (TRO Média), en collaboration avec les dramaturges du **Théâtre des Dramaturges**, représentants d’une nouvelle approche.
+
+  Son ambition : offrir aux soldats revenus du front une nouvelle perspective, celle de la création.
+
+  Leur objectif est de montrer au monde, et avant tout à eux-mêmes, que la vie continue. \
+  Le traumatisme n’est pas une condamnation : l’expérience de guerre vécue par les vétérans peut devenir matière à dramaturgie, transformant la douleur en création.
+
+  À travers une formation spécialisée, le projet permet aux véritables vétérans de l’armée ukrainienne de prendre part à l’écriture et à la création théâtrale. Le résultat est une parole brute, urgente, ancrée dans le vécu, qui fait écho à la fois aux tragédies personnelles et aux bouleversements collectifs.
+
+  Ces œuvres, nées de la réalité la plus dure, portent la voix d’une nouvelle humanité et deviennent une **force motrice de la culture ukrainienne dans le monde**.
+  ::
 ::
 
 ::text-block
@@ -56,7 +76,7 @@ Le programme de la troisième Semaine de la dramaturgie ukrainienne est encore e
   ::
   ::piece-card
   ---
-  title: "99"
+  title: "97"
   title_orig: 
   description: un drame percutant qui se déroule dans le contexte de la famine, explorant la déshumanisation et la compromission morale
   ---

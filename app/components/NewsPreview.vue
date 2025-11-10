@@ -14,7 +14,8 @@ const { data: news } = await useAsyncData('news', async () => {
     </div>
     <div class="flex flex-col pr-10">
       <h3 class="uppercase font-bold text-xl md:text-2xl mb-7">{{ item.title }}</h3>
-      <p>{{ item.preview }}</p>
+      <h4 class="font-semibold text-lg md:text-xl mb-7">{{ item.subtitle }}</h4>
+      <ContentRenderer :value="item" excerpt />
       <UModal :title="item.title"  :ui="{ content: 'md:max-w-4/5 lg:max-w-3/5' }" >
         <a class="text-viola mt-auto cursor-pointer italic font-semibold hover:underline">En savoir plus →</a>
         <template #body>

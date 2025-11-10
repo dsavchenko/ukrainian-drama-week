@@ -51,12 +51,17 @@ _DOCUMENTAIRE ART VIVACE_
 ::caroussel
 ---
 images:
-- artvivace/photo-0.jpg
-- artvivace/photo-1.jpg
-- artvivace/photo-2.jpg
-- artvivace/photo-0.jpg
-- artvivace/photo-1.jpg
-- artvivace/photo-2.jpg
+- 2024/artvivace/1.jpg
+- 2024/artvivace/2.jpg
+- 2024/artvivace/3.jpg
+- 2024/artvivace/4.jpg
+- 2024/artvivace/5.jpg
+- 2024/artvivace/6.jpg
+- 2024/artvivace/7.jpg
+- 2024/artvivace/9.jpg
+- 2024/artvivace/10.jpg
+- 2024/artvivace/11.jpg
+- 2024/artvivace/13.jpg
 ---
 ::
 
@@ -73,12 +78,18 @@ de MYKHAÏLO STARYTSKY
 ::caroussel
 ---
 images:
-- maroussia/photo-0.jpg
-- maroussia/photo-1.jpg
-- maroussia/photo-2.jpg
-- maroussia/photo-0.jpg
-- maroussia/photo-1.jpg
-- maroussia/photo-2.jpg
+- 2024/maroussia/1.jpg
+- 2024/maroussia/2.jpg
+- 2024/maroussia/3.jpg
+- 2024/maroussia/4.jpg
+- 2024/maroussia/5.jpg
+- 2024/maroussia/6.jpg
+- 2024/maroussia/7.jpg
+- 2024/maroussia/8.jpg
+- 2024/maroussia/9.jpg
+- 2024/maroussia/10.jpg
+- 2024/maroussia/11.jpg
+- 2024/maroussia/12.jpg
 ---
 ::
 
@@ -98,12 +109,16 @@ d’OKSANA GRYTSENKO
 ::caroussel
 ---
 images:
-- euphorbier/photo-0.jpg
-- euphorbier/photo-1.jpg
-- euphorbier/photo-2.jpg
-- euphorbier/photo-0.jpg
-- euphorbier/photo-1.jpg
-- euphorbier/photo-2.jpg
+- 2024/euphorbier/1.jpg
+- 2024/euphorbier/2.jpg
+- 2024/euphorbier/3.jpg
+- 2024/euphorbier/4.jpg
+- 2024/euphorbier/5.jpg
+- 2024/euphorbier/6.jpg
+- 2024/euphorbier/7.jpg
+- 2024/euphorbier/8.jpg
+- 2024/euphorbier/9.jpg
+- 2024/euphorbier/10.jpg
 ---
 ::
 
@@ -117,18 +132,23 @@ Coincée dans une zone occupée, une grand-mère propose à sa fille de ressusci
 ::center-header
 _LES POST-IT_ 
 
-d’IHOR NOSSOVSKYI
+d’IHOR NOSOVSKYI
 ::
 
 ::caroussel
 ---
 images:
-- postit/photo-0.jpg
-- postit/photo-1.jpg
-- postit/photo-2.jpg
-- postit/photo-0.jpg
-- postit/photo-1.jpg
-- postit/photo-2.jpg
+- 2024/postit/1.jpg
+- 2024/postit/2.jpg
+- 2024/postit/3.jpg
+- 2024/postit/4.jpg
+- 2024/postit/5.jpg
+- 2024/postit/6.jpg
+- 2024/postit/7.jpg
+- 2024/postit/8.jpg
+- 2024/postit/9.jpg
+- 2024/postit/10.jpg
+- 2024/postit/11.jpg
 ---
 ::
 
@@ -148,12 +168,17 @@ D’IVAN KARPENKO-KARY
 ::caroussel
 ---
 images:
-- martyn/photo-0.jpg
-- martyn/photo-1.jpg
-- martyn/photo-2.jpg
-- martyn/photo-0.jpg
-- martyn/photo-1.jpg
-- martyn/photo-2.jpg
+- 2024/martyn/1.jpg
+- 2024/martyn/2.jpg
+- 2024/martyn/3.jpg
+- 2024/martyn/4.jpg
+- 2024/martyn/5.jpg
+- 2024/martyn/6.jpg
+- 2024/martyn/7.jpg
+- 2024/martyn/8.jpg
+- 2024/martyn/9.jpg
+- 2024/martyn/10.jpg
+- 2024/martyn/11.jpg
 ---
 ::
 

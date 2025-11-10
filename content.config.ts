@@ -14,8 +14,12 @@ export default defineContentConfig({
       source: 'news/*.md',
       schema: z.object({
         title: z.string().nonempty(),
-        preview: z.string(),
-        image: z.string()
+        subtitle: z.string(),
+        image: z.string(),
+        excerpt: z.object({
+          type: z.string(),
+          children: z.any(),
+        }),
       })
     }),
   }

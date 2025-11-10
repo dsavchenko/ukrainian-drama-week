@@ -56,18 +56,15 @@ de NINA ZAKHOZHENKO
 ::caroussel
 ---
 images:
-- alina/photo-0.jpg
-- alina/photo-1.jpg
-- alina/photo-2.jpg
-- alina/photo-0.jpg
-- alina/photo-1.jpg
-- alina/photo-2.jpg
+- 2023/alina/1.jpg
+- 2023/alina/2.jpg
+- 2023/alina/3.jpg
 ---
 ::
 
 ::text-block
 Traduction française par Mariia Silchuk \
-Avec : Clémentine North, Roxane Sigaux, Sara Viot, Pauline Montel, Robin Egloff, Valentin Baldi, Luc Franquine, Estelle Delavennat, Dunkan Talhouet
+Avec : Clémentine North, Roxane Sigaux, Sara Viot, Marie-Sasha Kaminsky, Robin Egloff, Valentin Baldi, Luc Franquine, Estelle Delavennat, Dunkan Talhouet
 
 Cette pièce, à mi-chemin entre comédie ironique et performance pop-up, suit le parcours d’Alina, une jeune femme en quête d’identité et de sens. À travers sept « premiers travaux », elle essaie, échoue, recommence, se transforme. Entre stand-up, fragments de dialogues et numéros absurdes, le texte explore l’incertitude d’une génération, la pression sociale, la quête d’identité et de sens dans un monde instable.
 
@@ -84,14 +81,10 @@ de PAVLO ARIE
 ::caroussel
 ---
 images:
-- heroes/photo-0.jpg
-- heroes/photo-1.jpg
-- heroes/photo-2.jpg
-- heroes/photo-3.jpg
-- heroes/photo-0.jpg
-- heroes/photo-1.jpg
-- heroes/photo-2.jpg
-- heroes/photo-3.jpg
+- 2023/heroes/1.jpg
+- 2023/heroes/2.jpg
+- 2023/heroes/3.jpg
+- 2023/heroes/4.jpg
 ---
 ::
 
@@ -114,14 +107,11 @@ de NINA ZAKHOZHENKO
 ::caroussel
 ---
 images:
-- cava/photo-0.jpg
-- cava/photo-1.jpg
-- cava/photo-2.jpg
-- cava/photo-3.jpg
-- cava/photo-0.jpg
-- cava/photo-1.jpg
-- cava/photo-2.jpg
-- cava/photo-3.jpg
+- 2023/cava/1.jpg
+- 2023/cava/2.jpg
+- 2023/cava/3.jpg
+- 2023/cava/4.jpg
+- 2023/cava/5.jpg
 ---
 ::
 
@@ -141,10 +131,11 @@ _À TRAVERS LA PEAU_
 de NATALKA BLOK
 ::
 
-::site-image
+::caroussel
 ---
-image: lapeau/photo-0.jpg
-position: right
+images: 
+- 2023/lapeau/1.jpg
+- 2023/lapeau/2.jpg
 ---
 ::
 
@@ -164,10 +155,11 @@ _LA CONFESSION D’UNE UKRAINIENNE_
 de MACHA ISAKOVA
 ::
 
-::site-image
+::caroussel
 ---
-image: confession/photo-0.jpg
-position: right
+images: 
+- 2023/confession/1.jpg
+- 2023/confession/2.jpg
 ---
 ::
 
@@ -191,21 +183,18 @@ de MYKOLA KULISH
 ::caroussel
 ---
 images:
-- mazailo/photo-0.jpg
-- mazailo/photo-1.jpg
-- mazailo/photo-2.jpg
-- mazailo/photo-3.jpg
-- mazailo/photo-0.jpg
-- mazailo/photo-1.jpg
-- mazailo/photo-2.jpg
-- mazailo/photo-3.jpg
+- 2023/mazailo/1.jpg
+- 2023/mazailo/2.jpg
+- 2023/mazailo/3.jpg
+- 2023/mazailo/4.jpg
+- 2023/mazailo/5.jpg
 ---
 ::
 
 ::text-block
 Traduction et adaptation française par Mariia Silchuk et Macha ISAKOVA \
 Relecture : Thomas Riegler \
-Avec : Luc Franquine, Estelle Delavennat, Pauline Montel, Roxane Sigaux, Yuriy Zavalnyouk, Sara Viot, Dunkan Talhouet, Clémentine North, Robin Egloffe, Margot-Marie Ménéguz
+Avec : Luc Franquine, Estelle Delavennat, Marie-Sasha Kaminsky, Roxane Sigaux, Yuriy Zavalnyouk, Sara Viot, Dunkan Talhouet, Clémentine North, Robin Egloffe, Margot-Marie Ménéguz
 
 Comédie grinçante et emblématique, Myna Mazaïlo raconte l’histoire d’un fonctionnaire de Kharkiv obsédé par l’idée de changer son nom ukrainien en un patronyme « plus russe » pour faire carrière. Dans cette satire des années 1920, les tensions linguistiques et identitaires explosent autour de lui, révélant l’absurdité et la violence de la russification.
 

@@ -19,6 +19,7 @@ Le festival s’inscrit en opposition à cette destruction et vise à **mettre e
 ::site-image
 ---
 image: scena.png
+credit: Théâtre du Soleil
 ---
 ::
 

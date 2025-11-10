@@ -1,6 +1,6 @@
 ::hero-banner
 ---
-src: /hero.png
+src: First-page-visual-udw-1.jpg
 alt: affiche
 ---
 ::
@@ -16,5 +16,5 @@ image: slogan.png
 Un acte de résistance culturelle face à l’agression russe
 
 #description
-En faisant résonner les voix retrouvées, passées et présentes, la Semaine de la dramaturgie ukrainienne veut être un geste de mémoire, de justice et d’espoir – mais aussi une invitation à partager, à comprendre et à construire ensemble un avenir plus solidaire.
+En faisant résonner les voix retrouvées, passées et présentes, la Semaine de la dramaturgie ukrainienne veut être un geste de mémoire, de justice et d’espoir — mais aussi une invitation à partager, à comprendre et à construire ensemble un avenir plus solidaire.
 ::

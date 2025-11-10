@@ -16,10 +16,6 @@ defineProps({
     type: String,
     required: false
   },
-  subtitle: {
-    type: String,
-    required: false
-  },
   fullwide: {
     type: Boolean,
     default: false
